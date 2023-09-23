@@ -1,0 +1,18 @@
+body{
+    background-color: #131313;
+}
+#chat{
+    width: 50px;
+     float: left;
+}
+#auth{
+    margin: 0 auto;
+    width: 72px;
+}
+#busk{
+    width:50px;
+    float: right;
+}
+.top{
+    text-align: center;
+}
